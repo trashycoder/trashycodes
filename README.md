@@ -11,3 +11,5 @@
 4) [Python Arduino serial data plotter Youtube tutorial ](https://www.youtube.com/watch?v=0V-6pu1Gyp8)
 
 5) [Python Scipy FFT Youtube tutorial](https://www.youtube.com/watch?v=UjUKaQKniLM)
+
+6) [Python projects tutorials](https://www.programming-books.io/essential/python/callback-mode-audio-io-23bad34461e54beea579d798ea7248a8)
